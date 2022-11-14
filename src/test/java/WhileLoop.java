@@ -6,6 +6,8 @@ public class WhileLoop {
             a++;
             System.out.println("\n");
             System.out.println(a);
+            System.out.println(a);
+
         }
     }
 }
