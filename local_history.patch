@@ -1,0 +1,17 @@
+Index: src/test/java/WhileLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/WhileLoop.java b/src/test/java/WhileLoop.java
+--- a/src/test/java/WhileLoop.java	
++++ b/src/test/java/WhileLoop.java	(date 1668453143882)
+@@ -9,8 +9,6 @@
+             System.out.println("\n");
+             System.out.println("\n");
+             System.out.println("\n");
+-
+-
+         }
+     }
+ }
