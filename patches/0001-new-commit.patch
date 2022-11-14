@@ -1,0 +1,24 @@
+From a6d0110d21fab37d790b1c8336fbfe89a8f89f16 Mon Sep 17 00:00:00 2001
+From: jvnaidu <jvnaidu07@gmail.com>
+Date: Mon, 14 Nov 2022 23:19:24 +0530
+Subject: [PATCH] new commit
+
+---
+ src/test/java/WhileLoop.java | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/src/test/java/WhileLoop.java b/src/test/java/WhileLoop.java
+index 108ef3f..c0e0246 100644
+--- a/src/test/java/WhileLoop.java
++++ b/src/test/java/WhileLoop.java
+@@ -6,7 +6,6 @@ public class WhileLoop {
+             a++;
+             System.out.println("\n");
+             System.out.println(a);
+-
+         }
+     }
+ }
+-- 
+2.37.2.windows.2
+

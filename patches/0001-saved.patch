@@ -1,0 +1,24 @@
+From cb917e16dd51b4dffdf5d141a2912a938a16534f Mon Sep 17 00:00:00 2001
+From: jvnaidu <jvnaidu07@gmail.com>
+Date: Mon, 14 Nov 2022 22:14:08 +0530
+Subject: [PATCH] saved
+
+---
+ src/test/java/WhileLoop.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/test/java/WhileLoop.java b/src/test/java/WhileLoop.java
+index 9174a26..adce8ac 100644
+--- a/src/test/java/WhileLoop.java
++++ b/src/test/java/WhileLoop.java
+@@ -5,6 +5,7 @@ public class WhileLoop {
+             System.out.println("the value of:"+a);
+             a++;
+             System.out.println("\n");
++            System.out.println(a);
+ 
+         }
+     }
+-- 
+2.37.2.windows.2
+
