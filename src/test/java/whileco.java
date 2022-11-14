@@ -6,6 +6,6 @@ public class whileco {
             a--;
             System.out.println((a));
 
-        }
+}
     }
 }
